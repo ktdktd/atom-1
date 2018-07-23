@@ -8,5 +8,10 @@
 <body>
 	<h1>  길동컴퓨터  hgd.jsp </h1>
 	<h1>  나는 홍길동이야  </h1>
+	<img src="images/bar.gif"> <br>
+	<img src="images/bar.gif"> <br>
+	<img src="images/bar.gif"> <br>
+	<img src="images/bar.gif"> <br>
+	<img src="images/bar.gif"> <br>
 </body>
 </html>
