@@ -7,7 +7,7 @@
 <title>hjw.jsp</title>
 </head>
 <body>
- 	<h1> hjw  </h1>
+ 	<h1> 홍진원컴퓨터 hjw.jsp </h1>
  	<h1> 홍진원 </h1>
 </body>
 </html>
